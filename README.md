@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aboagye Kingsford
 - 👀 I’m interested in Learning technologies
-- 💞️ I’m looking to collaborate on web development(Javascript[nextjs,Angular, Express], c#(Blazor))
+- 💞️ I’m looking to collaborate on web development(Javascript[nextjs,Angular, Express, React, Nextjs], c#(Blazor))
 - 📫 Reach me on Instagram @ibi_so
 - 😄 Pronouns Ibi_so
 - ⚡ Fun fact: Do you know I am scared of ants?
